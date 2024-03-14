@@ -1,2 +1,2 @@
 # Scratch-Project
-Ugráló mászkáló macska akinek ugrásait Gobo számolja
+Ugráló mászkáló macska akinek ugrásait Gobo számolja.
